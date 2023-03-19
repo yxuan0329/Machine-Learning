@@ -4,4 +4,4 @@ This repository is homework and practice from [Machine Learning, 2023 Spring](ht
 | Folder | Desciption |
 |--------|------------|
 | HW1 | LSE and Newton's Method from Scratch|
-| HW2 | |
+| HW2 | Naive Bayes Classifier / Online Learning|
